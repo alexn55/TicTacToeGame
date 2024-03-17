@@ -1,0 +1,10 @@
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.csprojAssemblyReference.cache
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.Form1.resources
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.Properties.Resources.resources
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.csproj.GenerateResource.cache
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\xsi0\bin\Debug\xsi0.exe.config
+C:\Users\MG\source\repos\xsi0\bin\Debug\xsi0.exe
+C:\Users\MG\source\repos\xsi0\bin\Debug\xsi0.pdb
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.exe
+C:\Users\MG\source\repos\xsi0\obj\Debug\xsi0.pdb
